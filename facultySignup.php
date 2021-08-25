@@ -30,9 +30,11 @@ class BanglaConverter {
     $errorFlag=0;
     $pattern="/.du.ac.bd/i";
     $num=mt_rand(10000000,99999999);
+    $intro_msg=0;
 
     if(isset($_POST['create']))
     {
+        $intro_msg=1;
         if($_POST['firstname_english'] == "")
         
         {
@@ -201,7 +203,7 @@ class BanglaConverter {
 
             if($result)
             {
-                $sucess=$sucess."Thanks!Your account has been successfully created.<br>";
+                $sucess=$sucess."Thanks!Your account has been successfully created.<br> Please wait for 1-2 days to get your account verified by an Official Admin. You will be contacted through mobile soon.";
             }
             
             
@@ -265,6 +267,15 @@ class BanglaConverter {
     <?php
 
 
+            if($intro_msg == 0)
+            {
+                echo '
+            
+            <div class="alert alert-success"><strong> Please use your valid **@du.ac.bd Email ID For Registration. <br> If you do not have an official **@du.ac.bd email ID, Please contact with ICT Cell Director for a new email ID.</strong></div>
+            
+            ';
+
+            }
             if(!empty($error))
             {
 
