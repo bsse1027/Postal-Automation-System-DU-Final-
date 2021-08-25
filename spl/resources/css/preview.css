@@ -1,0 +1,40 @@
+
+div.w
+{
+      font-size: 15px;
+     
+      width: 64%;
+      
+
+    
+}
+div.a
+{
+   text-indent: 50px;
+   word-spacing: 8px;
+   border-style: solid;
+   
+}
+
+#yr
+{
+  width:10%;
+}
+#xm
+{
+  width:15%;
+}
+  
+#subject
+{
+    width:55%;
+}
+
+#course
+{
+  width:15%;
+}
+#cr
+{
+  width:15%;
+}

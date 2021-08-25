@@ -1,0 +1,13 @@
+C:\xampp\htdocs\mpdf\consoleapp1\bin\Debug\netcoreapp3.1\consoleapp1.exe
+C:\xampp\htdocs\mpdf\consoleapp1\bin\Debug\netcoreapp3.1\consoleapp1.deps.json
+C:\xampp\htdocs\mpdf\consoleapp1\bin\Debug\netcoreapp3.1\consoleapp1.runtimeconfig.json
+C:\xampp\htdocs\mpdf\consoleapp1\bin\Debug\netcoreapp3.1\consoleapp1.runtimeconfig.dev.json
+C:\xampp\htdocs\mpdf\consoleapp1\bin\Debug\netcoreapp3.1\consoleapp1.dll
+C:\xampp\htdocs\mpdf\consoleapp1\bin\Debug\netcoreapp3.1\consoleapp1.pdb
+C:\xampp\htdocs\mpdf\consoleapp1\obj\Debug\netcoreapp3.1\consoleapp1.csprojAssemblyReference.cache
+C:\xampp\htdocs\mpdf\consoleapp1\obj\Debug\netcoreapp3.1\consoleapp1.AssemblyInfoInputs.cache
+C:\xampp\htdocs\mpdf\consoleapp1\obj\Debug\netcoreapp3.1\consoleapp1.AssemblyInfo.cs
+C:\xampp\htdocs\mpdf\consoleapp1\obj\Debug\netcoreapp3.1\consoleapp1.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\mpdf\consoleapp1\obj\Debug\netcoreapp3.1\consoleapp1.dll
+C:\xampp\htdocs\mpdf\consoleapp1\obj\Debug\netcoreapp3.1\consoleapp1.pdb
+C:\xampp\htdocs\mpdf\consoleapp1\obj\Debug\netcoreapp3.1\consoleapp1.genruntimeconfig.cache

@@ -1,0 +1,86 @@
+html { 
+    
+    background-position: 50% 50%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size:cover;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(https://upload.wikimedia.org/wikipedia/commons/9/9e/Curzon_Hall_Dhaka_University.jpg);
+    
+     
+  }
+
+
+  .choose{
+
+
+        margin-top: 200px;
+
+
+  }
+
+
+
+
+  nav a {
+    color: white; }
+
+  @media (min-width: 434px) {
+    .navbar-collapse{
+    background-color : ;
+    }  
+  }
+  @media (min-width: 768px) {
+    .navbar-collapse{
+    background-color: unset;
+    }  
+  }
+
+/* animated dropdown  */
+
+@media (min-width: 992px) {
+    .animate {
+      animation-duration: 0.3s;
+      -webkit-animation-duration: 0.3s;
+      animation-fill-mode: both;
+      -webkit-animation-fill-mode: both;
+    }
+  }
+  
+  @keyframes slideIn {
+    0% {
+      transform: translateY(1rem);
+      opacity: 0;
+    }
+    100% {
+      transform:translateY(0rem);
+      opacity: 1;
+    }
+    0% {
+      transform: translateY(1rem);
+      opacity: 0;
+    }
+  }
+  
+  @-webkit-keyframes slideIn {
+    0% {
+      -webkit-transform: transform;
+      -webkit-opacity: 0;
+    }
+    100% {
+      -webkit-transform: translateY(0);
+      -webkit-opacity: 1;
+    }
+    0% {
+      -webkit-transform: translateY(1rem);
+      -webkit-opacity: 0;
+    }
+  }
+  
+  .slideIn {
+    -webkit-animation-name: slideIn;
+    animation-name: slideIn;
+  }
+

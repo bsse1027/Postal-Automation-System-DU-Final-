@@ -1,0 +1,168 @@
+div.w
+{
+      font-size: 13px;
+      padding-left: 100px;
+      width: 65%;
+      margin-left: 150px;
+      border-style: solid;
+     
+    
+}
+
+
+  
+
+
+.column {
+      float: left;
+     
+      height: 300px; 
+    }
+    
+    .left
+     {
+      margin-top: -40px;    
+      width: 55%;
+      padding-top: 20px;
+      height:50px;
+      padding-left: 220px;
+      
+    
+    }
+    
+    .right 
+    {
+      margin-top: -40px;
+   
+      padding-top: 20px;
+      padding-left: 15px;
+      width: 40%;
+      height:90px;
+     
+    }
+    
+    /* Clear floats after the columns */
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+    .address
+    {
+     
+     height:200px;
+     padding-left: 20px;
+     padding-top: 30px;
+     width: 30%;
+    
+     
+   
+   }
+   
+   .image 
+   {
+     padding-top: 50px;
+     padding-left: 70px;
+     width: 40%;
+    
+   
+   }
+
+
+    .p2
+    {
+     width: 40%;
+     padding-top: 20px;
+     height:80px;
+     margin-top: 10px;
+   
+   }
+   
+   .p1 
+   {
+     padding-top: 20px;
+     padding-left: 15px;
+     width: 8%;
+     height:50px;
+     margin-top: 10px;
+   
+    
+   }
+
+
+   div.a
+   {
+      text-indent: 60px;
+   }
+   
+
+
+
+div.b
+{
+   text-indent: 60px;
+}
+
+div.c
+{
+   text-indent: 60px;
+}
+
+div.d 
+{
+   text-indent: 60px;
+}
+
+div.e
+ {
+    text-indent: 60px;
+ }
+
+ div.f
+ {
+    text-indent: 60px;
+ }
+ div.g
+ {
+    text-indent: 60px;
+ }
+
+ div.h
+ {
+      margin-left:350px ;
+      padding-top: 30px;
+      width: 50%;
+    
+      padding-left: 180px;
+ }
+
+ .i
+ {
+   padding-top: 20px;
+   padding-left: 15px;
+   width: 40%;
+   height:40px;
+  
+ }
+
+ .j
+ {
+  width: 50%;
+  padding-top: 20px;
+  padding-left:200px ;
+  height:80px;
+  
+  
+ 
+}
+.submit
+{
+  width: 30%;
+  padding-top: 20px;
+  padding-left:200px ;
+  margin-left:780px;
+  height:80px;
+  
+}
+
