@@ -5,7 +5,7 @@
 
 ?>
 
-<?php include BASE_URL."/spl/staffLogin/include/head.php"; 
+<?php include BASE_URL."/staffLogin/include/head.php"; 
 	require $_SERVER['DOCUMENT_ROOT'].'/spl/PHPMailer/PHPMailerAutoload.php';
 ?>
 

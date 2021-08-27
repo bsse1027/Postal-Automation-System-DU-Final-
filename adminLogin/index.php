@@ -213,7 +213,7 @@ include BASE_URL."dbconnect.php";
   $tempQuery="
   
   SELECT * FROM `emails`
-  WHERE send_date=CURRENT_DATE()
+  WHERE send_date=DATE_ADD('$curDate', INTERVAL -0 DAY);
   
   
   ";
