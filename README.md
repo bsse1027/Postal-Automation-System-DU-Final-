@@ -1,5 +1,5 @@
 # Postal-Automation-System-DU-Final-
 Final Repository of "Postal Automation System" which is intended to automate the process of Letter Sending Department,Room 306,Registrar Building,University Of Dhaka. <br>
-The project is officially live now on: http://letter.du.ac.bd/ .<br>
+The project is officially live now on: http://letter.du.ac.bd/ . (Don't get disheartened seeing the footer and think that it's not our project or smth like that. Please check the repo. We have all the code and also the SRS documents done by us. We, two third years student created this porject from scratch giving effort day by day for their alma mater, when we literally just started crawling in the web dev world and someone else took credit for it when we were done deploying it on the main server and handed over the project. It's plain sad. But as we didn't have much time later when as kick started our industry craeer, we didn't give any effort to fix this footer to get justice. Hopefully, someday this fake credit taking dev from registrar buidling of DU will get what they deserve )<br>
 Old Repo Link: https://github.com/bsse1027/SPL-2-Postal-Automation-System <br>
 A Project For Software Project Lab-2 (SPL-2),SE 505(5th Semester),Institute of Information Technology,University of Dhaka.
